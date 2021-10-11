@@ -22,7 +22,7 @@ class TransferData:
 
 
 def main():
-    access_token = '234D_BSBJ1EAAAAAAAAAAVUhi5Bg3lnwYjNgVO3Ng7J5Z0hbbjvlj_fWVFJgHRJP'
+    access_token = 'Z7dHtS8oIqIAAAAAAAAAAZBl1IgYhcxUmaWTpKkWysTgy33QQgaXSHzYLYvx64kl'
     transferData = TransferData(access_token)
 
 
